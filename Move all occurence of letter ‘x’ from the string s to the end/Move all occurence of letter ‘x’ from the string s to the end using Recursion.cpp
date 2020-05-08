@@ -1,4 +1,4 @@
-// CPP implementation to Move all occurence of letter ‘x’ 
+// CPP implementation to Move all occurence of letter â€˜xâ€™ 
 // from the string s to the end using Recursion 
 #include <bits/stdc++.h> 
 using namespace std; 
@@ -27,7 +27,6 @@ int main()
 	string s;
 	cout<<"Enter the String  ";
 	cin>>s;
-   // string s = "geekxsforgexxeksxx"; 
   
     int l = s.length(); 
     cout<<"the output   ";
